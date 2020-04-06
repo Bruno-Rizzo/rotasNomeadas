@@ -7,7 +7,7 @@ void main() => runApp(
     debugShowCheckedModeBanner: false,
     initialRoute: '/',
     routes:{
-      'pages/home': (context) => Home(),
+      'pages/home'  : (context) => Home(),
       'pages/config': (context) => Config(),
     },
     home:Home(),

@@ -11,7 +11,7 @@ class _ConfigState extends State<Config> {
   Widget build(BuildContext context) {
 
     return Scaffold(
-      backgroundColor: Color(0XFF1CD1C8),
+      backgroundColor: Color(0XFF30343B),
       body: Container(
         padding: EdgeInsets.all(50),
         child: RaisedButton(
